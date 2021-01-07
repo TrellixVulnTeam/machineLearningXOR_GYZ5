@@ -41,6 +41,9 @@ w3 += dW3
 w4 += dW1
 w5 += dW2
 w6 += dW3
+w7 += dW1
+w8 += dW2
+w9 += dW3
 
 
 
@@ -66,5 +69,8 @@ for i in range(100000):
     w4 += dW1
     w5 += dW2
     w6 += dW3
+    w7 += dW1
+    w8 += dW2
+    w9 += dW3
 
 print(output)
